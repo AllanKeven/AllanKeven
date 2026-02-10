@@ -8,14 +8,15 @@
 ## 🧠 Sobre mim
 - 🎯 **Desenvolvedor Backend (Node.js)**
 - ⚙️ Experiência com **APIs REST**, autenticação e regras de negócio
-- 🏗️ Trabalho com arquitetura organizada e boas práticas
+- 🏗️ Utilizo **arquitetura MVC** para manter organização e escalabilidade
+- 🗄️ Trabalho com **Prisma ORM** para modelagem e acesso a banco de dados
 - 📚 Em constante aprendizado e evolução no ecossistema backend
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,git,github,vscode,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,js,ts,prisma,git,github,vscode,postgres,mysql" />
 </div>
 
 ---
@@ -36,7 +37,7 @@
 ---
 
 ## ✨ Frase que me define
-> *"Backend bem feito é aquele que ninguém vê… mas todo mundo sente quando falha."*
+> *"Arquitetura bem feita hoje evita refatorações dolorosas amanhã."*
 
 ---
 

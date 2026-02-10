@@ -23,8 +23,15 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AllanKeven&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale-pt-br"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKeven&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<!-- Dark mode -->
+![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanKeven&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true#gh-dark-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKeven&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only)
+
+<!-- Light mode -->
+![Allan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanKeven&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true#gh-light-mode-only)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKeven&layout=compact&theme=default&hide_border=true#gh-light-mode-only)
+
 </div>
 
 ---

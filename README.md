@@ -8,7 +8,7 @@
 ## 🧠 Sobre mim
 - 🎯 **Desenvolvedor Backend (Node.js)**
 - ⚙️ Experiência com **APIs REST**, autenticação e regras de negócio
-- 🔧 Trabalho com arquitetura organizada e boas práticas
+- 🏗️ Trabalho com arquitetura organizada e boas práticas
 - 📚 Em constante aprendizado e evolução no ecossistema backend
 
 ---
@@ -22,15 +22,15 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AllanKeven&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKeven&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AllanKeven&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKeven&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
 
 ## 🌐 Onde me encontrar
-- 🐙 GitHub: [github.com/AllanKeven](https://github.com/AllanKeven)
-- 💼 LinkedIn: [linkedin.com/in/allan-alencar-819041390](https://www.linkedin.com/in/allan-alencar-819041390)
+- 🐙 GitHub: [https://github.com/AllanKeven](https://github.com/AllanKeven)
+- 💼 LinkedIn: [https://www.linkedin.com/in/allan-alencar-819041390](https://www.linkedin.com/in/allan-alencar-819041390)
 - 📧 Email: **alkeven007@gmail.com**
 
 ---

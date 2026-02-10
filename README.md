@@ -23,7 +23,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AllanKeven&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AllanKeven&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&locale-pt-br"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKeven&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
